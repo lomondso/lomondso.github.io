@@ -4,5 +4,5 @@ h1{color:RED; text-align:center;font-family: 'Indie Flower', cursive;}
 body{background-color:GREENYELLOW;}
 .video{text-align:center;}
 .icon{text-align:center;}
-figcaption{text-decoration:none;}
+a{text-decoration:none;}
 figcaption:hover{color:darksalmon;}
