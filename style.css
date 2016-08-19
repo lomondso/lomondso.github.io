@@ -1,7 +1,10 @@
 @import 'https://fonts.googleapis.com/css?family=Indie+Flower';
 .icon{height:3em;}
 h1{color:RED; text-align:center;font-family: 'Indie Flower', cursive;}
-body{background-color:GREENYELLOW;}
+body{
+    background-image: url("http://topyoutubers.net/images/tbnrfrags/CX958ijUwAAb1TO.jpg");
+    background-color: #cccccc;
+}
 .video{text-align:center;}
 .icon{text-align:left;}
 a{text-decoration:none;}
