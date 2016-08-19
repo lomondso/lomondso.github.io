@@ -2,8 +2,11 @@
 .icon{height:3em;}
 h1{color:RED; text-align:center;font-family: 'Indie Flower', cursive;}
 body{
-    background-image: url("http://topyoutubers.net/images/tbnrfrags/CX958ijUwAAb1TO.jpg");
-    background-color: #cccccc;
+     background: red; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(red, gray); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(red, gray); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(red, gray); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(red, gray); /* Standard syntax */
 }
 .video{text-align:center;}
 .icon{text-align:left;}
