@@ -12,4 +12,4 @@ body{
 .icon{text-align:left;}
 a{text-decoration:none;}
 figcaption:hover{color:RED;}
-p{color:yellow; text-align:center;font-family: 'Amatic SC', cursive';}
+p#p1234{color:yellow; text-align:center;font-family: 'Amatic SC', cursive';}
